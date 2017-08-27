@@ -15,5 +15,14 @@
   "bugs": {
     "url": "https://github.com/vb8118/nodemongo/issues"
   },
-  "homepage": "https://github.com/vb8118/nodemongo#readme"
+  "homepage": "https://github.com/vb8118/nodemongo#readme",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "cookie-parser": "^1.4.3",
+    "errorhandler": "^1.5.0",
+    "express": "^4.15.4",
+    "express-handlebars": "^3.0.0",
+    "method-override": "^2.3.9",
+    "morgan": "^1.8.2"
+  }
 }
